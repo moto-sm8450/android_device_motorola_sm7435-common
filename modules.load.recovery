@@ -280,6 +280,8 @@ ili9882_mmi.ko
 bu520xx_pen.ko
 mmi_annotate.ko
 mmi_info.ko
+bm_adsp_ulog.ko
+mmi_charger.ko
 mmi_relay.ko
 sensors_class.ko
 touchscreen_mmi.ko
