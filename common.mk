@@ -296,7 +296,7 @@ PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH) \
     hardware/google/interfaces \
     hardware/google/pixel \
-    hardware/lineage/interfaces/power-libperfmgr \
+    hardware/calyx/interfaces/power-libperfmgr \
     hardware/motorola \
     hardware/qcom-caf/common/libqti-perfd-client
 
